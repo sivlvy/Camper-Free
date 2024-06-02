@@ -1,0 +1,28 @@
+[
+    {
+        "icon": "ac",
+        "title": "AC",
+        "backendName": "airConditioner"
+    },
+
+    {
+        "icon": "automatic",
+        "title": "Automatic",
+        "backendName": "automatic"
+    },
+    {
+        "icon": "kitchen",
+        "title": "Kitchen",
+        "backendName": "kitchen"
+    },
+    {
+        "icon": "tv",
+        "title": "TV",
+        "backendName": "TV"
+    },
+    {
+        "icon": "shower",
+        "title": "Shower/WC",
+        "backendName": "bathroom"
+    }
+]

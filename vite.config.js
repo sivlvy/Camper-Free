@@ -9,7 +9,9 @@ export default defineConfig({
             components: '/src/components',
             pages: '/src/pages',
             assets: '/src/assets',
+            api: '/src/api',
+            helpers: '/src/helpers',
         },
     },
-    base: '/vite-react-eslint-starter-template',
+    base: '/Camper-Free',
 });
