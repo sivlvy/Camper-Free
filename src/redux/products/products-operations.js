@@ -3,7 +3,7 @@ import { createAsyncThunk } from '@reduxjs/toolkit';
 import { filterProductsRequest, productsRequest } from 'api/products-api';
 
 export const getProducts = createAsyncThunk(
-    'products/products',
+    'products/fetchAll',
     async (page, { rejectWithValue }) => {
         try {
             const data = await productsRequest(page);
